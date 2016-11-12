@@ -1,22 +1,22 @@
 # PHP Avenger
 
-> PHP Avenger is a future collection open source of tools writting in PHP with focus in security and hacking.
+> PHP Avenger is a future collection open source of tools writing in PHP with focus in security and hacking.
 
 ### Beta
 
-* PHP Avenger sh ( Search Enginer )
+* PHP Avenger sh ( Search Engineer )
 
 ### Future Implementation
 r
 * PHP Avenger bt ( Brute - Force )
-* PHP Avenger sca ( State Code Analayse )
+* PHP Avenger sca ( State Code Analyse )
 * PHP Avenger pwp ( Plugin WordPress )
 * PHP Avenger cj ( Component Joomla )
 
 ***
 #PHP Avenger SH
 
-> Php Avenger sh is a open source tool with ideia **baseaded in fork inurlbr by Cleiton Pinheiro**. Basicaly **PHP Avenger sh** is a tool automates the process of detecting of possibles vunerabilities in using mass scan and check if true or false. Php Avenget utility search enginers with google, bing and others using dorks ( avanced searching ).
+> Php Avenger sh is a open source tool with idea **based in fork inurlbr by Cleiton Pinheiro**. Basically **PHP Avenger sh** is a tool automates the process of detecting of possibles vulnerabilities in using mass scan and check if true or false. Php Avenger utility search engineers with google, bing and others using dorks ( advanced searching ).
 
 ## Instalation 
 
@@ -76,7 +76,7 @@ php avenger sh
 
 ## Details
 
-#### Searchs Enginers
+#### Search Engineers
 * Google
 * GoogleApi
 * Bing
@@ -110,5 +110,5 @@ php avenger sh
 * [Documentation](http://phpavenger.aszone.com.br).
 * [Examples](http://phpavenger.aszone.com.br/examples).
 * [Videos](http://youtube.com/aszone).
-* [Steakoverflow](http://phpavenger.aszone.com.br).
+* [Stackoverflow](http://phpavenger.aszone.com.br).
 
